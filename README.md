@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VRRANSH
+- 👋 Hi, I’m @Vansh
 - 👀 I’m interested in Coding, Web development
 - 🌱 I’m currently learning Data structures and algorithm
 - 💞️ I’m looking to collaborate on ...
