@@ -2,7 +2,8 @@
 - 👀 I’m interested in Coding, Web development
 - 🌱 I’m currently learning Data structures and algorithm
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me vishnu.vs8789@gmail.com/@vansh2410
+- 📫 How to reach me vishnu.vs8789@gmail.com
+- Telegram link- https://web.telegram.org/a/
 
 <!---
 VRRANSH/VRRANSH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
